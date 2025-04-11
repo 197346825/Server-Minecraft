@@ -9602,3 +9602,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [11Apr2025 03:29:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
 [11Apr2025 03:30:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Spectator Mode]
 [11Apr2025 03:30:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
+[11Apr2025 03:45:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set the time to 13000]
+[11Apr2025 03:47:34.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Spectator Mode]
+[11Apr2025 03:47:35.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
+[11Apr2025 03:47:36.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Survival Mode]
+[11Apr2025 03:47:38.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
+[11Apr2025 03:49:07.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Apr2025 03:49:07.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Apr2025 03:49:07.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Apr2025 03:49:07.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mrgamer2_0 lost connection: Server closed
+[11Apr2025 03:49:07.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mrgamer2_0 left the game
+[11Apr2025 03:49:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Apr2025 03:49:08.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Apr2025 03:49:10.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Apr2025 03:49:10.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Apr2025 03:49:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Apr2025 03:49:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Apr2025 03:49:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Apr2025 03:49:10.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Apr2025 03:49:10.923] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
