@@ -95,3 +95,16 @@
 [11Apr2025 01:57:43.962] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 24276 ms
 [11Apr2025 01:57:43.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (30.289s)! For help, type "help"
 [11Apr2025 01:57:43.979] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Apr2025 02:09:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Apr2025 02:09:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C<--[HERE]
+[11Apr2025 02:09:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Apr2025 02:09:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Apr2025 02:09:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Apr2025 02:09:29.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Apr2025 02:09:29.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Apr2025 02:09:32.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Apr2025 02:09:32.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Apr2025 02:09:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Apr2025 02:09:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Apr2025 02:09:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Apr2025 02:09:32.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
