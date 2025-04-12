@@ -2045,3 +2045,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [12Apr2025 16:54:13.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2460, l='ServerLevel[Mundo nuevo]', x=-579.58, y=65.56, z=-976.58] died, message: 'Villager was turned into KFC by Fire Dragon'
 [12Apr2025 16:54:14.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Survival Mode]
 [12Apr2025 16:54:27.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
+[12Apr2025 16:56:04.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Survival Mode]
+[12Apr2025 16:56:20.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
+[12Apr2025 17:02:12.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Survival Mode]
+[12Apr2025 17:02:18.877] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2419, l='ServerLevel[Mundo nuevo]', x=-544.56, y=68.75, z=-963.30] died, message: 'Farmer was slain by Beast Patient'
+[12Apr2025 17:02:45.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set the time to 1000]
+[12Apr2025 17:03:02.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Creative Mode]
+[12Apr2025 17:03:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mrgamer2_0: Set own game mode to Survival Mode]
